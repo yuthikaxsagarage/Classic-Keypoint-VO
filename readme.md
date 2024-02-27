@@ -4,8 +4,7 @@
 * OpenCV 3.0
 
 #### Kitti data or your own data
-Tested with cmake on my Mac
-For C++ version, you need g2o for optimization
+Tested with cmake on my Mac for C++ version, you need g2o for optimization
 
 # Introduction
 Python Files
