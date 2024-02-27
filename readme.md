@@ -1,10 +1,12 @@
 # Requirement
-Python 3.5
-Numpy
-OpenCV 3.0
-Kitti data or your own data
+* Python 3.5
+* Numpy
+* OpenCV 3.0
+
+#### Kitti data or your own data
 Tested with cmake on my Mac
-For C++ version 2, you need g2o for optimization
+For C++ version, you need g2o for optimization
+
 # Introduction
 Python Files
 The python file folder contains the source code with Python scripts for 2D-2D mono Visual Odometry, 3D reconstruction, and 3D-2D visual odometry. You will need to adjust the address of the source files for images accordingly.
